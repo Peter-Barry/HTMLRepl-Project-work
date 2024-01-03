@@ -1,0 +1,35 @@
+BODY {
+  font-family: 'Times New Roman', Times, serif;
+  margin:20px;
+  background-color: #600040;
+}
+#nav1{
+  width: 180px;
+  float: left;
+}
+#header1{
+  background-color: blueviolet;
+  text-align: center;
+  padding: 10px;
+  border: 2px solid black;
+}
+#header2{
+  background-color: blue;
+  text-align: center;
+  padding: 10px;
+  border: 2px solid black;
+}
+.myHobbies {
+  width:50%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  color: blue;
+  background-color: #AAAAFF;
+
+}
+.para{
+    background-color: #AAAAFF;
+    text-align: center;
+    width: 600px;
+
+}
